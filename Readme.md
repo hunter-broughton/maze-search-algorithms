@@ -186,7 +186,6 @@ This number represents how many cells the algorithm visited before finding the t
 
 - **Thread Safety**: GUI updates are handled on the Event Dispatch Thread
 - **Memory Efficiency**: Node-based heap implementation for dynamic sizing
-- **Extensibility**: Easy to add new search algorithms by extending `AbstractMazeSearch`
 - **Testing**: All core components include comprehensive unit tests
 
 ## Educational Value
@@ -198,15 +197,6 @@ This project demonstrates:
 - **GUI Programming**: Swing-based visualization
 - **Object-Oriented Design**: Inheritance, interfaces, and polymorphism
 - **Performance Analysis**: Comparing algorithmic efficiency
-
-## Contributing
-
-Feel free to extend this project by:
-
-- Adding new search algorithms (Dijkstra's, Greedy Best-First, etc.)
-- Implementing additional terrain types
-- Creating maze import/export functionality
-- Adding performance benchmarking tools
 
 ---
 
