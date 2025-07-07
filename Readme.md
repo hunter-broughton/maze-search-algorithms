@@ -1,8 +1,13 @@
 # Maze Search Algorithm Visualization
 
-A comprehensive Java implementation of popular pathfinding algorithms with real-time visualization. This project demonstrates **Depth-First Search (DFS)**, **Breadth-First Search (BFS)**, and **A* Search** algorithms navigating through randomly generated mazes with special terrain types.
+A comprehensive Java implementation of popular pathfinding algorithms with real-time visualization. This project demonstrates **Depth-First Search (DFS)**, **Breadth-First Search (BFS)**, and **A\* Search** algorithms navigating through randomly generated mazes with special terrain types.
 
 **Created by Hunter Broughton - April 2023**
+
+## Demo
+
+![Maze Search Visualization](Screenshot%202025-07-06%20at%208.31.56%20PM.png)
+_Real-time visualization showing the search algorithm exploring a maze with different terrain types and finding the optimal path._
 
 ## Features
 
