@@ -6,7 +6,7 @@ A comprehensive Java implementation of popular pathfinding algorithms with real-
 
 ## Demo
 
-![Maze Search Visualization](Screenshot%202025-07-06%20at%208.31.56%20PM.png)
+![Maze Search Visualization](Maze.png)
 _Real-time visualization showing the search algorithm exploring a maze with different terrain types and finding the optimal path._
 
 ## Features
